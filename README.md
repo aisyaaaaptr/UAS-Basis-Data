@@ -49,7 +49,7 @@ perintah memasukkan nomor kamar
 - Menu Show
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-ata yang telah di Input pada menu registrasi 
+Data yang telah di Input pada menu registrasi 
 
 ![menu shows](https://user-images.githubusercontent.com/92429478/173184066-17c14d78-a32c-4e9a-b73a-7df26529fef5.jpeg)
 
@@ -58,7 +58,12 @@ ata yang telah di Input pada menu registrasi
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 perintah memasukkan tanggal pemesanan
+
 ![menu search 2](https://user-images.githubusercontent.com/92429478/173184295-58fdcf93-42de-44f3-accc-3a3ac13516bb.jpeg)
+
+Muncul data yang sesuai 
+
+
 
 
 # viii.	Referensi/Acknowledgement
