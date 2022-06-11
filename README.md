@@ -12,7 +12,7 @@ APLIKASI PEMESANAN UYU HOTEL
 - Proses pemesanan (booking) seringkali membuat seorang admin hotel kewalahan jika dilakukan secara manual. kemudian, proses pencarian data juga sering menjadi masalah besar jika masih dilakukan secara manual karena akan menimbulkan data yang tidak beraturan. 
  
 # iv.	Solusi yang dibuat
-- Dibuat sebuah APLIKASI PEMESANAN UYU HOTEL yang didalamnya mencakup menu insert yang dapat memasukan nama pemesan, tanggal pemesanan, nomor kamar, dan tipe kamar, Kemudian menu show untuk menampilkan data pemesanan, dan menu search yang dapat mencari dan menampilkan data pemesanan yang sesuai berdasarkan tanggal pemesanan.
+- Dibuat sebuah APLIKASI PEMESANAN UYU HOTEL yang didalamnya mencakup menu registrasi yang dapat memasukan nama pemesan, tanggal pemesanan, nomor kamar, dan tipe kamar, Kemudian menu show untuk menampilkan data pemesanan, dan menu search yang dapat mencari dan menampilkan data pemesanan yang sesuai berdasarkan tanggal pemesanan.
 
 # v.	Konsep / flowchart aplikasi 
 ![Flowchart UYU](https://user-images.githubusercontent.com/92429478/173182422-c245dcfa-e0fb-48ea-a492-7617197f5136.jpeg)
@@ -24,7 +24,10 @@ APLIKASI PEMESANAN UYU HOTEL
 - Isi sesuai dengan perintah yang tersedia dalam kode
 
 # vii.	Demo atau screenshot aplikasi 
-menu Home 
+- Menu Home 
+![menu home](https://user-images.githubusercontent.com/92429478/173183401-45ac8fa5-32c0-4659-a4d3-d5f32c3029fc.jpeg)
 
+- Menu Registrasi
+tampilan jika memilih opsi nomor 1 
 
 # viii.	Referensi/Acknowledgement
