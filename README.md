@@ -36,5 +36,8 @@ APLIKASI PEMESANAN UYU HOTEL
 ![menu registrasi 1 1](https://user-images.githubusercontent.com/92429478/173183813-d2f87648-1d31-4c1d-83eb-370a428cd300.jpeg)
 
 -- tampilan jika memilih opsi nomor 1, muncul perintah memasukkan tipe kamar --
+![menu registrasi 1 2](https://user-images.githubusercontent.com/92429478/173183892-1d228241-915f-432e-96e4-abc21d116dc8.jpeg)
+
+-- tampilan jika memilih opsi nomor 1, muncul perintah memasukkan nomor kamar --
 
 # viii.	Referensi/Acknowledgement
