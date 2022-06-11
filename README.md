@@ -13,7 +13,9 @@ UYU Hotel Project UAS Basis Data
 
 # iv.	Solusi yang dibuat
 
+
 # v.	Konsep / flowchart aplikasi 
+![Flowchart UYU](https://user-images.githubusercontent.com/92429478/173182422-c245dcfa-e0fb-48ea-a492-7617197f5136.jpeg)
 
 # vi.	Panduan menggunakan aplikasi
 
