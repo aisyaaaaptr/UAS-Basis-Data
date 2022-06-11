@@ -28,8 +28,10 @@ APLIKASI PEMESANAN UYU HOTEL
 ![menu home](https://user-images.githubusercontent.com/92429478/173183401-45ac8fa5-32c0-4659-a4d3-d5f32c3029fc.jpeg)
 
 - Menu Registrasi
--- tampilan jika memilih opsi nomor 1 --
-![menu registrasi](https://user-images.githubusercontent.com/92429478/173183474-d8769db3-8527-436f-bb69-9eee13a4e079.jpeg)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-- tampilan jika memilih opsi nomor 1, muncul perintah memasukkan nama --
+![menu registrasi 1](https://user-images.githubusercontent.com/92429478/173183681-329d561c-083a-4bf7-a62d-f402eba6c557.jpeg)
 
+-- tampilan jika memilih opsi nomor 1, muncul perintah memasukkan tanggal pemesanan --
 
 # viii.	Referensi/Acknowledgement
