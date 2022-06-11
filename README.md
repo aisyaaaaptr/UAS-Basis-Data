@@ -15,7 +15,7 @@ APLIKASI PEMESANAN UYU HOTEL
 - Dibuat sebuah APLIKASI PEMESANAN UYU HOTEL yang didalamnya mencakup menu registrasi yang dapat memasukan nama pemesan, tanggal pemesanan, nomor kamar, dan tipe kamar, Kemudian menu show untuk menampilkan data pemesanan, dan menu search yang dapat mencari dan menampilkan data pemesanan yang sesuai berdasarkan tanggal pemesanan.
 
 # v.	Konsep / flowchart aplikasi 
-![Flowchart UYU](https://user-images.githubusercontent.com/92429478/173182422-c245dcfa-e0fb-48ea-a492-7617197f5136.jpeg)
+![Flowchart BSD](https://user-images.githubusercontent.com/92429478/173184572-9e08975c-6e7a-4808-b57f-4c02d9bdcc75.jpeg)
 
 # vi.	Panduan menggunakan aplikasi
 - download semua file yang tersedia pada laman repository ini 
